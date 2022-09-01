@@ -13,3 +13,5 @@ making my_first_directory in the /tmp/
 to move the file betty
 
 how to delete the file betty
+
+deleted the file my first delete
