@@ -31,3 +31,5 @@ lets move command
 clean emac 
 
 make directory with path
+
+inserting commas in statements
