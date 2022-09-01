@@ -9,3 +9,5 @@ command to change working director
 show all hidden files,and long format with goup I
 
 making my_first_directory in the /tmp/ 
+
+to move the file betty
