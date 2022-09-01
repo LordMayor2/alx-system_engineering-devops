@@ -4,4 +4,6 @@ ls script is used to display content
 
 command to change working director
 
-4 list all hidden and long filesy 
+4 list all hidden and long files
+
+show all hidden files,and long format with goup ID 
