@@ -20,4 +20,6 @@ change my working directory to previous
 
 list both hidden amd show me pwd
 
-file type 
+file type
+
+symbolic links 
