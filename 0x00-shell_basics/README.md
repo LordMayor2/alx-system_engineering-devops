@@ -24,4 +24,8 @@ file type
 
 symbolic links
 
-copy all html 
+copy all html
+
+lets move command
+
+clean emac 
