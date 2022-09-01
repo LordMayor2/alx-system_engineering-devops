@@ -18,4 +18,6 @@ deleted the file my first delete
 
 change my working directory to previous
 
-list both hidden amd show me pwd 
+list both hidden amd show me pwd
+
+file type 
