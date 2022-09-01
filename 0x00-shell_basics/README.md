@@ -29,3 +29,5 @@ copy all html
 lets move command
 
 clean emac 
+
+make directory with path
