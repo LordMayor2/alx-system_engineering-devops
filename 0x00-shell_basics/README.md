@@ -15,3 +15,5 @@ to move the file betty
 how to delete the file betty
 
 deleted the file my first delete
+
+change my working directory to previous 
