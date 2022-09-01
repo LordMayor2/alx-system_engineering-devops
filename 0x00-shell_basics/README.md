@@ -22,4 +22,6 @@ list both hidden amd show me pwd
 
 file type
 
-symbolic links 
+symbolic links
+
+copy all html 
