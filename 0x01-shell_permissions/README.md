@@ -11,3 +11,5 @@ create a file without content
 changing it to an executable file
 
 added its permission
+
+added an execution to them
