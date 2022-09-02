@@ -13,3 +13,5 @@ changing it to an executable file
 added its permission
 
 added an execution to them
+
+putting james bond permission
