@@ -19,3 +19,5 @@ putting james bond permission
 authorize permission
 
 authorize permission again
+
+permission of a sub directory
